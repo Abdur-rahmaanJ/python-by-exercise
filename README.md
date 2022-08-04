@@ -10,7 +10,7 @@ Feel free to contribute back!
 
 *Instructor Name*: [Name](#)
 
-👉 exercises are required to complete
+👉 exercises are required to complete have this emoji behind it
 
 # Contributing
 
@@ -19,6 +19,8 @@ Besides normal contributions, add resources to enable students to complete the t
 - [ ] 👉 Create a Github account [[1](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account), 2, 3, 4]
 
 <hr>
+
+Let's start!
 
 
 # Chapter 0
