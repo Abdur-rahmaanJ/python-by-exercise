@@ -43,4 +43,4 @@ Let's start!
 - [ ] 👉 Write a program which prints what the user input back to the screen (use `input()`). Store the user input in a variable
 - [ ] Write a program which prints what the user input in uppercase (use `.upper()`)
 - [ ] 👉 Using `if`, comparison operators (`> < == >=` etc) and `.isdigit` write a program to determine if the number input is negative
-- [ ] Using a for loop, print even numbers
+- [ ] 👉 Using a for loop, print even numbers
