@@ -42,5 +42,14 @@ Let's start!
 - [ ] 👉 Write a program which prints strings to a file (use `file=`)
 - [ ] 👉 Write a program which prints what the user input back to the screen (use `input()`). Store the user input in a variable
 - [ ] Write a program which prints what the user input in uppercase (use `.upper()`)
-- [ ] 👉 Using `if`, comparison operators (`> < == >=` etc) and `.isdigit` write a program to determine if the number input is negative
-- [ ] 👉 Using a for loop, print even numbers
+- [ ] 👉 Using `if` and comparison operators (`> < == >=` etc) write a program to determine if the number input is negative
+- [ ] Use a for loop to print your name 5 times.
+- [ ] 👉 Using a for loop, print even numbers from 1 to 10 inclusive
+- [ ] 👉 Using a while loop, print odd numbers from 1 to 10 inclusive
+
+# Chapter 2
+
+- [ ] 👉 Write an empty function with docstring and the keyword pass
+- [ ] 👉 Write a function which, when called prints your name 3 times
+- [ ] 👉 Write a function named `square` with parameter `x` and prints the square of x.
+- [ ] 👉 Write a function named `square` with parameter `x` and returns the square of x.
